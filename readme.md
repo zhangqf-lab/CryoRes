@@ -1,1 +1,1 @@
-use `<meta http-equiv="refresh">` to redirect cryores.zhanglab.net to real location
+use `<meta http-equiv="refresh">` to redirect <https://cryores.zhanglab.net> to actual URL
